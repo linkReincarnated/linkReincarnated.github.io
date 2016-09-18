@@ -10,5 +10,6 @@ title: Temple of Time Quest BLog
 	    	<span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 	    	"{{ post.excerpt | remove: '<p>' | remove: '</p>' }} <a href ="{{ post.url }}">[...]</a>"
 	    </li>
+	    <br>
 	  {% endfor %}
 	</ul>
