@@ -1,4 +1,5 @@
 name: Temple of Time
 permalink: /blog/:year/:month/:day/:title
+show_drafts: true
 gems:
   -jekyll-sitemap
