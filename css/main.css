@@ -50,3 +50,7 @@ ul.posts li {
 ul.blog p {
     font-size: .8em;
 }
+
+ul.blog li {
+    color: #FFE511;
+}
