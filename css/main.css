@@ -14,13 +14,13 @@ nav ul li, footer ul li {
 }
 a:link {
     text-decoration: none;
-    color: #4037EC;
+    color: #FFFFFF;
 }
 a:hover {
     text-decoration: underline;
 }
 a:visited {
-    color: #4037EC;
+    color: #FFFFFF;
 }
 h1 {
     font-size: 3em;
@@ -30,7 +30,7 @@ p {
     font-size: 1.5em;
     font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
     line-height: 1.4em;
-    color: #000000;
+    color: #FFF011;
 }
 footer {
     border-top: 1px solid #d5d5d5;
