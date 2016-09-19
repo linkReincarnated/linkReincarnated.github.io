@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Begninning of Time: Official Launch of Temple of Time Quest BLog"
+title: "The Begninning of Time: Official Launch of Temple of Time Quest bLog"
 date: 2016-09-18
 ---
 As the echoing ocarina notes of the song of time fade in the Temple of Time, a strange stone doorway slowly slides open, revealing... a quest bLog?! This is definitely not what our stoic (and silent) hero was expecting.
