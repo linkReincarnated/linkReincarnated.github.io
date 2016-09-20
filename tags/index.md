@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Tags
 ---
 <!-- Get the tag name for every tag on the site and set them
 to the `site_tags` variable. -->
