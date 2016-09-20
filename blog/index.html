@@ -12,8 +12,7 @@ title: Temple of Time Quest bLog
   			<li><a href="/tags#{{ tag }}" class="tag">{{ tag }}</a></li>
 		{% endfor %}
 		</ul>
-	    	<span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-	    	<br>
+	    	<span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}<br></a>
 	    	"{{ post.excerpt | remove: '<p>' | remove: '</p>' }} <a href ="{{ post.url }}">[...]</a>"
 	    </li>
 	    <br>
