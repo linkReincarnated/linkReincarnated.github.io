@@ -295,10 +295,10 @@ a {
 }
 
 .tag:hover {
-  background-color: #fdff52;
+  background-color: #63c0f5;
   color: black;
 }
 
 .tag:hover::after {
-   border-left-color: #fdff52; 
+   border-left-color: #63c0f5; 
 }
