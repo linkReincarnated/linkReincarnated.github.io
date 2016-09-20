@@ -284,6 +284,7 @@ a {
 }
 
 .tag::after {
+  background: #eaeaea;
   border-bottom: 13px solid transparent;
   border-left: 10px solid #AEFF6E;
   border-top: 13px solid transparent;
