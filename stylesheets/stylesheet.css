@@ -302,3 +302,7 @@ a {
 .tag:hover::after {
    border-left-color: #63c0f5; 
 }
+
+.tag:hover::before {
+  background:  #63c0f5;
+}
