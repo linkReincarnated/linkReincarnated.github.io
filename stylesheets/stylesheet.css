@@ -68,6 +68,10 @@ header h2 {
   color: #666;
 }
 
+header h2:before {
+  content: "./{{ page.title }}";
+}
+
 #downloads .btn {
   display: inline-block;
   text-align: center;
