@@ -258,7 +258,7 @@ a {
 }
 
 .tag {
-  background: #AEFF6E;
+  background: #b5e853;
   border-radius: 3px 0 0 3px;
   color: #000;
   display: inline-block;
@@ -272,7 +272,7 @@ a {
 }
 
 .tag::before {
-  background: #AEFF6E;
+  background: #b5e853;
   border-radius: 10px;
   box-shadow: inset 0 1px rgba(0, 0, 0, 0.25);
   content: '';
@@ -286,7 +286,7 @@ a {
 .tag::after {
   background: #151515 url("../images/bkg.png") 0 0;
   border-bottom: 13px solid transparent;
-  border-left: 10px solid #AEFF6E;
+  border-left: 10px solid #b5e853;
   border-top: 13px solid transparent;
   content: '';
   position: absolute;
