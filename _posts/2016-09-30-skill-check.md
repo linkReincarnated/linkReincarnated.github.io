@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Skill Checks in D&D 5e
-date: 2016-09-29
+date: 2016-09-30
 tags: d&d quest_bLog zelda
 ---
 
