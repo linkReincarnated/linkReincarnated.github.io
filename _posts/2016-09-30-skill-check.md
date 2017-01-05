@@ -72,7 +72,7 @@ Our whole scenario got much more immersive. It also became more tense (though th
 
 >Rule 3: Nobody can mention skills by name as skills.
 
-Obviously, there's some grey area--a rogue might claim to be an expert at picking locks, while a bard says, "I generally perform well" (in who-knows-what context). But you can encourage players to be more descriptive. At least their describing the game world and not sheets of paper.
+Obviously, there's some grey area--a rogue might claim to be an expert at picking locks, while a bard says, "I generally perform well" (in who-knows-what context). But you can encourage players to be more descriptive. At least they're describing the game world and not sheets of paper.
 
 <H3>Knowledge Checks</H3>
 
